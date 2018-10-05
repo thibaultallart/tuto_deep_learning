@@ -3,7 +3,7 @@ https://docs.docker.com/install/
 
 ## 2) Clone this repo
 ```bash
-git clone 
+git clone https://github.com/thibaultallart/tuto_deep_learning.git
 ```
 
 ## 3) Create container and start coding
