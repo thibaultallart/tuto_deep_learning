@@ -1,0 +1,10 @@
+numpy<=1.14.5,>=1.13.3
+pandas
+tensorflow
+tqdm
+jupyter
+matplotlib
+keras
+sklearn
+Box2D 
+box2d-kengz
