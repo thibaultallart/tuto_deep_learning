@@ -1,4 +1,4 @@
-A docker file for Francois Chollet notebooks: https://github.com/fchollet/deep-learning-with-python-notebooks
+A Dockerfile for Francois Chollet notebooks: https://github.com/fchollet/deep-learning-with-python-notebooks
 
 ### 1) Install docker 
 https://docs.docker.com/install/
